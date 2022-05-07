@@ -5,7 +5,7 @@ namespace Service;
 class ExerciseFourService 
 {
     /**
-     * Merges two strings, character by character.
+     * Repeatedly computes the sum of each individual digit until the result is a single-digit.
      * 
      * @param int $number
      * @return int $super
