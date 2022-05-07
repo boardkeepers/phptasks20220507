@@ -6,7 +6,7 @@ namespace Tests\Unit;
 use PHPUnit\Framework\TestCase;
 use Service\ExerciseOneService;
 
-final class ArrayServiceUnitTest extends TestCase
+final class ExerciseOneServiceTest extends TestCase
 {
     /**
      * Test if words without a repeating letter return true
